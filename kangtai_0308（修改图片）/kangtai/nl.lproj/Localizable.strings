@@ -1,0 +1,216 @@
+//
+//
+/**
+ * Copyright (c) www.bugull.com
+ */
+//
+//
+//WIFI-Devices没有
+"WIFI-Devices" = "WIFI-Devices";
+
+"Timer" = "Timer";
+"Lock" = "Sluit";
+"Edit" = "Editeer";
+"Add" = "Toevoegen";
+
+"Setting" = "Instelling";
+"About" = "Over";
+"Offline" = "Offline";
+"Name" = "Naam";
+"Icon" = "Icoon";
+"Save" = "Opslaan";
+
+"Mon" = "Ma";
+"Tue" = "Di";
+"Wed" = "Woe";
+"Thu" = "Do";
+"Fri" = "Vrij";
+"Sat" = "Zat";
+"Sun" = "Zon";
+
+"ON" = "AAN";
+"OFF" = "UIT";
+"Learn" = "Leren";
+
+"Change Password" = "Verander paswoord";
+"WiFi Devices" = "WiFi apparaat";
+"Add Device" = "Apparaat toevoegen";
+"Search device and connect it to WiFi" = "Zoek apparaat en verbind met WiFi";
+
+"Device" = "Device";
+"Time" = "Tijd";
+"Power" = "Stroom";
+"Repeat" = "Herhaal";
+"Type" = "Type";
+"Dimmer" = "Dimmer";
+"About Us" = "Over ons";
+"Version" = "Versie";
+"Add Timer" = "Timer toevoegen";
+
+
+"Chosen time error." = "Time error";
+"Chosen date error." = "Datum error";
+
+"WiFi SSID" = "WiFi SSID";
+"Password" = "Paswoord";
+"Show Password" = "Toon paswoord";
+"Start" = "Start";
+"Connection process may take 30 seconds, please wait ..." = "Dit kan tot 30 seconden duren";
+"Tips" = "Tips";
+"Ten groups timer are limited" = "Sorry, Maximaal 10 timer groepen.";
+
+"Count Down" = "Aftelfunctie";
+"Absence" = "Afwegzigheid";
+"Add Count Down" = "Afteltijd toevoegen";
+"Add Absence" = "Afwezigheid toevoegen";
+"After" = "After";
+"From" = "Van";
+"To" = "Naar";
+
+"Login" = "Login";
+"Log In" = "Log In";
+"Change password successfully" = "Paswoord veranderd";
+"Forget Password"= "Paswoord vergeten ?";
+"Sign Up"= "Sign Up";
+"Email"= "Email";
+"Password"= "Paswoord";
+"RF" = "RF";
+"Email will be used to retrieve your password,please fill in" = "Email wordt gebruikt om uw paswoord te resetten. Zorg er voor dat uw email correct is.";
+
+
+"Please enter your registered email" = "Vul uw email adres in.";
+
+"Register successfully" = "Register successfully";
+
+"Login successful"= "Sign up gelukt. Log u nu in.";
+"Account" = "Account";
+"Log Out" = "Log uit";
+//没使用
+"Sending" = "Sending";
+
+
+"Options can not be empty" = "Vul alle informatie in voor u dit opslaat";
+"One group countdown is limited,want to delete it and add a new one?" = "Sorry. Maximaal 1 aftel groep.";
+"One group absence is limited" = "Sorry. Maxiaal 1 afwezigheid groep.";
+
+"Sent successfully" = "Er werd u een email verstuurd. Bekijk deze email.";
+//没使用
+"More data can be loaded on the pull" = "More data can be loaded on the pull";
+
+
+"Hour" = "Uur";
+"Minute" = "Minuten";
+"Year" = "Jaar";
+"Month" = "Maand";
+"Day" = "Dag";
+
+"Loading" = "lading";
+"Old password" = "Oud paswoord";
+"New password" = "Nieuw paswoord";
+
+"Confirm new password" = "Bevestig paswoord";
+"Firmware version" = "Firmware:";
+"Upgrade request has been sent" = "Upgrade informatie verstuurd";
+"Find new version" = "Nieuwe firmware gevonden. Nu upgraden ?";
+//Chosen time error
+"Chosen time error" = "Chosen time error";
+//没使用
+"Current camera is unavailable" = "Current camera is invalid";
+"Device name can not be empty" = "Vul alle informatie in voor u dit opslaat";
+
+"OK" = "OK";
+
+"Confirm" = "OK";
+"Cancel" = "Annuleer";
+"Camera" = "Camera";
+
+"Photos" = "Foto";
+"Loading" = "lading";
+//Link Timeout 后续再看看
+"Link Timeout" = "Verbinding met server niet gelukt, controleer uw netwerk.";
+"Links" = "Verbinding";
+"Sorry, this operation is only supported at local." = "Sorry, deze operatie werk enkel lokaal.";
+"Entered password twice are different" = "Nieuw paswoord komt niet overeen";
+"Enter the different password" = "Vul uw paswoord in";
+"Password length must be longer than 6" = "Password length must be longer than 6";
+"Enter the correct password" = "Oud paswoord is verkeer";
+
+
+"Register" = "Sign up";
+//Please enter the wireless network password 没使用
+"Please enter the wireless network password" = "Please enter the wireless network password";
+//Update没使用
+"Update" = "Update";
+"Not Found" = "Verbind eerst met uw netwerk.";
+
+"unit_rmb"="￥";
+"unit_doller"="$";
+"unit_"="€";
+"unit_rbl"="Rbl";
+"unit_gbp"="£";
+
+"Energy Info" = "Energie info";
+
+// 02.04
+"RF Devices" = "RF apparaat";
+"WiFi Device" = "WiFi apparaat";
+"Add RF device" = "RF apparaat toevoegen";
+"Device type" = "Type";
+"Switch" = "Schakelaar";
+"Curtain" = "Rolluik";
+"Thermostat" = "Thermostaat";
+//The nearest WiFi device
+"The nearest WiFi device" = "The nearest WiFi device";
+"Check For Update" = "Controleer op updates";
+//Current version is newest没有用
+"Current version is newest" = "Current version is newest";
+"Have a new version, want to update it?" = "Have a new version, want to update it?";
+"Refreshing" = "Vernieuwen";
+//Refresh
+"Refresh" = "Vernieuwen";
+"Up" = "Boven";
+"Down" = "Onder";
+"High" = "Hoog";
+"Low" = "Laag";
+"Edit RF device" = "RF apparaat instellen";
+//Checking
+"Checking" = "Checking";
+//"No WiFi device with RF function" = "WiFi apparaat is offline";
+"RF device name can not be empty" = "Vul alle informatie in voor u dit opslaat";
+"This device is offline, please select other device" = "WiFi apparaat is offline";
+"Current network is unavailable" = "Verbind eerst met uw netwerk.";
+"Connecting" = "Verbinding";
+//Connect again successfully
+"Connect again successfully" = "Verbonden met server";
+"Connect again failed, please check the network or device status" = "Verbinding met server niet gelukt, controleer uw netwerk.";
+//Email address does not exist
+"Email address does not exist" = "Vul uw email adres in.";
+//Please enter a correct Email
+"Please enter a correct Email" = "Email format niet correct";
+//Username already exist
+"Username already exist" = "Sign up niet gelukt. Controleer uw email adres.";
+//Username or password error
+"Username or password error" = "Log in niet gelukt. Controleer uw email en paswoord.";
+"Real-time" = "Real-time";
+"24H" = "24h";
+"Last 30 days" = "Laatste 30 dagen";
+"Last 12 months" = "Laatste 12 maand";
+"Energy:" = "Energie:";
+"Cost:" = "Kost:";
+"Real time power" = "Reële stroom";
+"Electric current" = "Stroom";
+"Voltage" = "Voltage";
+"Electricity Price" = "Prijs elektriciteit";
+"Unit Cost" = "Kost";
+"Currency" = "Valuta";
+"Edit Timer" = "Editeer";
+
+// 0629
+"later ON" = "AAN";
+"later OFF" = "UIT";
+"RF Control" = "RF Control";
+"Refreshing..." = "Refreshing...";
+"Action" = "Actie";
+"Reconnecting" = "Server aanvraag…";
+"Are you sure to log out?" = "Wilt u zeker uitloggen?";
+"WiFi Socket" = "WiFi stopcontact";

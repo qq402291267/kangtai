@@ -1,0 +1,33 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef DEBUG // 处于开发阶段
+#define NSLog(...)  NSLog(__VA_ARGS__)
+#define HJFLog(...) NSLog(__VA_ARGS__)
+//#define NSLog(...) 
+#else // 处于发布阶段
+#define NSLog(...)
+#define HJFLog(...)
+#endif
+
+//#ifdef DEBUG // 处于开发阶段
+//#define HJFLog(...) NSLog(__VA_ARGS__)
+//#else // 处于发布阶段
+//#define HJFLog(...)
+//#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#import "Gogle.h"
+#endif
